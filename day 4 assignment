@@ -1,0 +1,5 @@
+numbers=[8,2,3,0,7]
+sum_of_all=0
+for a in numbers:
+    sum_of_all=sum_of_all+a
+print(numbers,"sum of all elements in the list is :",sum_of_all)
